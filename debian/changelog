@@ -1,0 +1,11 @@
+wal-e (0.8.1-0reddit1) trusty; urgency=medium
+
+  *  Remove dependency on azure.
+
+ -- Ricky Ramirez <rram@reddit.com>  Tue, 19 Jan 2016 13:09:18 -0800
+
+wal-e (0.8.1-0) trusty; urgency=medium
+
+  * Initial release.
+
+ -- Ricky Ramirez <rram@reddit.com>  Thu, 14 Jan 2016 15:46:02 -0800
